@@ -1,9 +1,0 @@
-body#page-mod-quiz-print .test #logotype{
-    display: block !important;
-    position: fixed;
-    padding-top: 450px;
-}
-
-#page-mod-quiz-print #export {
-    display: none;
-}
