@@ -1,0 +1,12 @@
+#page-footer {
+    display: none;
+}
+
+#page-wrapper::after {
+    min-height: 0 !important;
+}
+
+#page-mod-quiz-attempt, #page-mod-quiz-view {
+    height: 0 !important;
+    max-height: 100%;
+}
